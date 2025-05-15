@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KothariMansi
-- 👀 I’m interested in Android App Development.
-- 🌱 I’m currently learning Android Development in kotlin using Jetpack Compose and API development.
+- 👀 I’m interested in Android App Development and API Development.
+- 🌱 I’m currently learning Android Development in kotlin using Jetpack Compose and API development in Go.
 - 😄 Pronouns: She/her
 
 <!---
